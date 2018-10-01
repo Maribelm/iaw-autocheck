@@ -1,0 +1,46 @@
+body{
+background-color: black;
+
+}
+
+p{
+font-family: verdana;
+color: white;
+font-size: 12;
+text-align: center;
+}
+
+h1{
+font-size: 25;
+color: pink;
+font-family: verdana;
+text-align: center;
+}
+
+img{
+border: 1px;
+border-color: white;
+align: center;
+}
+
+h2{
+color: white;
+text-align: center;
+}
+
+h3{
+color: white;
+text-align: center;
+}
+
+h4{
+color: white;
+text-align: center;
+}
+
+#comprar{
+color: pink;
+padding: 15px 32px;
+display: inline-block;
+text-color: black;
+}
